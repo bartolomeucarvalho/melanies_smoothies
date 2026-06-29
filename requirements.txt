@@ -1,4 +1,3 @@
 
-dependencies = [
-    "streamlit[snowflake]"
-]
+snowflake-snowpark-python
+streamlit
